@@ -1,8 +1,8 @@
 ---
-description: 'Last updated: 4 April, 2022'
+description: Imagine a multi purpose bot
 ---
 
-# Introduction
+# Dycord・Introduction
 
 > Dycord is a multipurpose bot made with [discord.js](https://discord.js.org) library by [Aadhu#0345](https://discord.com/users/815480311285547079).
 
