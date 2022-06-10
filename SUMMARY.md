@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Dycord・Introduction](README.md)
 
 ## 📌 Useful guide
 
