@@ -1,5 +1,6 @@
 ---
 description: 'Last updated: 4 April, 2022'
+layout: landing
 ---
 
 # Privacy Policy
