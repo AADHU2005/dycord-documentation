@@ -4,7 +4,7 @@ description: Imagine a multi purpose bot
 
 # Dycord・Introduction
 
-> Dycord is a multipurpose bot made with [discord.js](https://discord.js.org) library by [Aadhu#0345](https://discord.com/users/815480311285547079).
+> Dycord is a multipurpose bot made with [discord.js](https://discord.js.org) library by [Aadhu](https://discord.com/users/815480311285547079).
 
 ### What Dycord Has:
 
