@@ -17,7 +17,7 @@ description: Imagine a multi purpose bot
 
 ### How can I add Dycord to my server?
 
-> Click **here** to invite me.
+> Click [**here**](https://discord.com/oauth2/authorize?client\_id=902417770208194642\&permissions=2134207679\&redirect\_uri=https%3A%2F%2Fdiscord.gg%2FwM7RVuSbvs\&response\_type=code\&scope=bot%20applications.commands%20guilds.join) to invite me.
 
 ### Where will I get support for Dycord bot?
 
